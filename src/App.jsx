@@ -179,7 +179,7 @@ export default function App() {
     <div className="min-h-screen w-full flex items-center justify-center p-2 sm:p-4">
       <div className="w-full max-w-md bg-white rounded-2xl shadow-xl p-4 sm:p-6 max-h-[90vh] overflow-y-auto">
         <header className="flex items-center justify-between mb-4">
-          <h1 className="text-lg sm:text-xl font-bold">Cute Messages 💌</h1>
+          <h1 className="cute-title">My Messages to you 💌</h1>
         </header>
 
         <div className="message-display">
